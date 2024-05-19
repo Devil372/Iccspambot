@@ -20,8 +20,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Devil372/Iccspambot)
 
 </details>
-
-<a href="https://t.me/ICCXSUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/iccxspam"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
