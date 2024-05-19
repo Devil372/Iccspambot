@@ -5,7 +5,7 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Devil372/count.svg" />
 </p>
-[<img src="https://https://telegra.ph/file/e18a3028ba0d9e89a4b96.jpg"/>]
+[<img src="https://telegra.ph/file/e18a3028ba0d9e89a4b96.jpg"/>]
 
 > ⭐️ Thanks to everyone for using this op ˹𝕀ℂℂ ꭙ 𝕊𝕡𝕒𝕞˼🫧. That is the greatest pleasure we have !
 
