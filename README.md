@@ -21,12 +21,13 @@
 
 </details>
 
+<a href="https://t.me/ICC_X_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href=""><img src="https://t.me/iccxsupportelds.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
 
 </details>
 <a href="https://t.me/BLOODFIXER2"><img title="Telegram" src="https://img.shields.io/badge/ORION%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
