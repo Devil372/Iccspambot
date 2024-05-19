@@ -6,8 +6,8 @@ from PENGUINMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "PENGUIN_X_SUPPORT"
-MUST_JOIN = "indiancybercriminal"
+MUST_JOIN = "@PENGUIN_X_SUPPORT"
+MUST_JOIN = "@indiancybercriminal"
 
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
