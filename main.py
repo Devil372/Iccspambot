@@ -22,7 +22,7 @@ def load_plugins(plugin_name):
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
     sys.modules["OXYBOT.modules." + plugin_name] = load
-    print("𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡 𝗛𝗔𝗦 𝗜𝗠𝗣𝗢𝗥𝗧𝗘𝗗 " + plugin_name)
+    print("𝗜𝗖𝗖 𝗛𝗔𝗦 𝗜𝗠𝗣𝗢𝗥𝗧𝗘𝗗 " + plugin_name)
 
 
 files = glob.glob("OXYBOT/modules/*.py")
@@ -32,7 +32,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("\𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗗𝗘𝗣𝗟𝗢𝗬𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬⚡\nMy Master --->🇮⃪ 𓆩 ⃝⃪⃕🇵‌ʙx𝟷»➤⃟🇨𝙷𝙰𝙻𝙲𝙾𝙶𝙴𝙽๛⋆⏤‌❥︎⃟❤️‍🔥↬𓆰ғ𐑵ѕⴕ 𐑵ѕ ғυcƙ ❍ɢ")
+print("\𝗜𝗖𝗖 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗗𝗘𝗣𝗟𝗢𝗬𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬⚡\nMy Master --->𝗜𝗖𝗖")
 
 
 async def main():
